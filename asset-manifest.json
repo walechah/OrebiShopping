@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/OrebiShopping/static/css/main.14dcc51c.css",
+    "main.js": "/OrebiShopping/static/js/main.d3846a4e.js",
+    "static/media/bannerImgTwo.webp": "/OrebiShopping/static/media/bannerImgTwo.d93152138c5c9da3de58.webp",
+    "static/media/bannerImgThree.webp": "/OrebiShopping/static/media/bannerImgThree.cdd63ff84acf53a73a0d.webp",
+    "static/media/saleImgTwo.webp": "/OrebiShopping/static/media/saleImgTwo.ecb733524e878406c281.webp",
+    "static/media/bannerImgOne.webp": "/OrebiShopping/static/media/bannerImgOne.cc70f00d1512cb1f97f6.webp",
+    "static/media/newArrThree.webp": "/OrebiShopping/static/media/newArrThree.137dcefaee781098fd8a.webp",
+    "static/media/payment.png": "/OrebiShopping/static/media/payment.3e00cc601c9e7fc1e7d3.png",
+    "static/media/productOfTheYear.webp": "/OrebiShopping/static/media/productOfTheYear.2c30f10b51873bab4630.webp",
+    "static/media/saleImgOne.webp": "/OrebiShopping/static/media/saleImgOne.5fd9a91421b8b3d52f04.webp",
+    "static/media/bestSellerThree.webp": "/OrebiShopping/static/media/bestSellerThree.8caffcd1cd1c67b4a340.webp",
+    "static/media/saleImgThree.webp": "/OrebiShopping/static/media/saleImgThree.7f55d28e41e547163b6c.webp",
+    "static/media/newArrFour.webp": "/OrebiShopping/static/media/newArrFour.b8a5fda6839f2f0b1eaa.webp",
+    "static/media/bestSellerTwo.webp": "/OrebiShopping/static/media/bestSellerTwo.c2641a76c189fcc71670.webp",
+    "static/media/bestSellerFour.webp": "/OrebiShopping/static/media/bestSellerFour.0b34fdc5232f2dcf997b.webp",
+    "static/media/bestSellerOne.webp": "/OrebiShopping/static/media/bestSellerOne.988208d74cc332fccc11.webp",
+    "static/media/emptyCart.png": "/OrebiShopping/static/media/emptyCart.230e4848b62fb3cab325.png",
+    "static/media/spfThree.webp": "/OrebiShopping/static/media/spfThree.226da6ea085a91db0352.webp",
+    "static/media/spfOne.webp": "/OrebiShopping/static/media/spfOne.af2c5aa8d8015ffcccf4.webp",
+    "static/media/spfTwo.webp": "/OrebiShopping/static/media/spfTwo.3dd358b9c31a7587b4d9.webp",
+    "static/media/spfFour.webp": "/OrebiShopping/static/media/spfFour.d005441cba54d7214bf7.webp",
+    "static/media/newArrTwo.webp": "/OrebiShopping/static/media/newArrTwo.bdc7d9372116bdf40cc4.webp",
+    "static/media/newArrOne.webp": "/OrebiShopping/static/media/newArrOne.5982a995e5c312914fe6.webp",
+    "index.html": "/OrebiShopping/index.html",
+    "main.14dcc51c.css.map": "/OrebiShopping/static/css/main.14dcc51c.css.map",
+    "main.d3846a4e.js.map": "/OrebiShopping/static/js/main.d3846a4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14dcc51c.css",
+    "static/js/main.d3846a4e.js"
+  ]
+}
